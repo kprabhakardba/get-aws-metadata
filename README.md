@@ -10,7 +10,7 @@
 - Install Python 3 and git on your ec2 instance 
     - `sudo yum install python3 git`
 - Clone this repository in your ec2 instance
-  - `git clone https://github.com/bluprince13/aws-metadata-json`
+  - `git clone https://github.com/kprabhakardba/get-aws-metadata`
 - Install pipenv in your ec2 instance
   - `sudo pip3 install pipenv`
   - `sudo pip3 install requests`
